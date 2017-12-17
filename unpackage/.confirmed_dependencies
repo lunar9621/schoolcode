@@ -1,0 +1,162 @@
+{
+	"index.html": {
+		"resources": [
+			"js/touchFunction.js",
+			"css/index.css",
+			"img/wl.png",
+			"img/about us.png",
+			"img/gjh.png",
+			"img/background.png",
+			"js/jquery-2.1.0.js",
+			"img/tj_2.png",
+			"img/title.png",
+			"img/hxr.png",
+			"img/ld.png",
+			"img/music.png",
+			"html/escape.html",
+			"html/gjhRun.html",
+			"html/strangers_index.html",
+			"img/zyh.png",
+			"img/music.mp3",
+			"img/smx.png",
+			"html/ldKongfu.html",
+			"html/wlCooly.html",
+			"img/quiet.png",
+			"html/zhyColor.html",
+			"html/gunzi.html"
+		],
+		"refer": [
+			"html/escape.html",
+			"html/gjhRun.html",
+			"html/strangers_index.html",
+			"html/ldKongfu.html",
+			"html/wlCooly.html",
+			"html/zhyColor.html",
+			"html/gunzi.html"
+		]
+	},
+	"html/escape.html": {
+		"resources": [
+			"index.html",
+			"img/star.png",
+			"img/forward.gif",
+			"img/home.png",
+			"css/escape.css",
+			"img/restart.png",
+			"js/escape.js",
+			"img/right.gif",
+			"img/left.gif",
+			"img/background.png",
+			"js/jquery-2.1.0.js",
+			"img/music.mp3"
+		],
+		"refer": [
+			"index.html"
+		]
+	},
+	"html/gjhRun.html": {
+		"resources": [
+			"img/runner.gif",
+			"js/enemys.js",
+			"js/runner.js",
+			"js/chaseMain.js",
+			"css/chase.css",
+			"img/enemy.gif",
+			"index.html",
+			"img/background.png",
+			"js/jquery-2.1.0.js",
+			"img/music.mp3",
+			"img/home.png",
+			"img/restart.png"
+		],
+		"refer": [
+			"index.html"
+		]
+	},
+	"html/strangers_index.html": {
+		"resources": [
+			"js/strangers_main.js",
+			"img/strangers_heart.png",
+			"js/strangers_barrier.js",
+			"js/strangers_people.js",
+			"css/strangers_style.css",
+			"img/strangers_walk.gif",
+			"index.html",
+			"img/strangers_skull.png",
+			"img/home.png",
+			"img/restart.png"
+		],
+		"refer": [
+			"index.html"
+		]
+	},
+	"html/ldKongfu.html": {
+		"resources": [
+			"img/gun_1.gif",
+			"img/run_left.gif",
+			"img/walk.gif",
+			"css/style-kongfu.css",
+			"js/enemy-kongfu.js",
+			"img/grass.jpg",
+			"img/goodGuy.png",
+			"img/road2.jpg",
+			"img/run_right.gif",
+			"img/road4.jpg",
+			"index.html",
+			"img/home.png",
+			"img/restart.png",
+			"img/gun_2.gif",
+			"img/music.mp3",
+			"js/jquery-2.1.0.js",
+			"img/background.png"
+		],
+		"refer": [
+			"index.html"
+		]
+	},
+	"html/wlCooly.html": {
+		"resources": [
+			"js/main.js",
+			"img/kulou.png",
+			"img/left.jpg",
+			"img/stand.png",
+			"img/box.png",
+			"js/kulou.js",
+			"css/animate.css",
+			"css/style.css",
+			"js/player.js",
+			"js/countdown.js",
+			"img/right.png",
+			"js/box.js",
+			"index.html",
+			"img/left.png"
+		],
+		"refer": [
+			"index.html"
+		]
+	},
+	"html/zhyColor.html": {
+		"resources": [
+			"css/YHstyle.css",
+			"js/ring.js",
+			"img/circle.png",
+			"js/YHplayer.js",
+			"css/YHanimate.css",
+			"js/YHmain.js",
+			"img/home.png",
+			"img/restart.png",
+			"img/background.png",
+			"js/jquery-2.1.0.js",
+			"img/Green.png",
+			"img/yellow.png"
+		]
+	},
+	"html/gunzi.html": {
+		"resources": [
+			"img/start.png",
+			"css/gunzi.css",
+			"img/music.mp3",
+			"js/gunzi.js"
+		]
+	}
+}

@@ -1,0 +1,250 @@
+/*动画延时*/
+.animation_delay100ms{animation-delay: 100ms;}
+.animation_delay200ms{animation-delay: 200ms;}
+.animation_delay300ms{animation-delay: 300ms;}
+.animation_delay400ms{animation-delay: 400ms;}
+.animation_delay500ms{animation-delay: 500ms;}
+.animation_delay600ms{animation-delay: 600ms;}
+.animation_delay700ms{animation-delay: 700ms;}
+.animation_delay800ms{animation-delay: 800ms;}
+.animation_delay900ms{animation-delay: 900ms;}
+.animation_delay1s{animation-delay: 1s;}
+.animation_delay1100ms{animation-delay: 1100ms;}
+.animation_delay1200ms{animation-delay: 1200ms;}
+.animation_delay1300ms{animation-delay: 1300ms;}
+.animation_delay1400ms{animation-delay: 1400ms;}
+.animation_delay1500ms{animation-delay: 1500ms;}
+.animation_delay1600ms{animation-delay: 1600ms;}
+.animation_delay1700ms{animation-delay: 1700ms;}
+.animation_delay1800ms{animation-delay: 1800ms;}
+.animation_delay1900ms{animation-delay: 1900ms;}
+.animation_delay2s{animation-delay: 2s;}
+.animation_delay2100ms{animation-delay: 2100ms;}
+.animation_delay2200ms{animation-delay: 2200ms;}
+.animation_delay2300ms{animation-delay: 2300ms;}
+.animation_delay2400ms{animation-delay: 2400ms;}
+.animation_delay2500ms{animation-delay: 2500ms;}
+.animation_delay2600ms{animation-delay: 2600ms;}
+.animation_delay2700ms{animation-delay: 2700ms;}
+.animation_delay2800ms{animation-delay: 2800ms;}
+.animation_delay2900ms{animation-delay: 2900ms;}
+.animation_delay3s{animation-delay: 3s;}
+.animation_delay3100ms{animation-delay: 3100ms;}
+.animation_delay3200ms{animation-delay: 3200ms;}
+.animation_delay3300ms{animation-delay: 3300ms;}
+.animation_delay3400ms{animation-delay: 3400ms;}
+.animation_delay3500ms{animation-delay: 3500ms;}
+.animation_delay3600ms{animation-delay: 3600ms;}
+.animation_delay3700ms{animation-delay: 3700ms;}
+.animation_delay3800ms{animation-delay: 3800ms;}
+.animation_delay3900ms{animation-delay: 3900ms;}
+.animation_delay4s{animation-delay: 4s;}
+.animation_delay4100ms{animation-delay: 4100ms;}
+.animation_delay4200ms{animation-delay: 4200ms;}
+.animation_delay4300ms{animation-delay: 4300ms;}
+.animation_delay4400ms{animation-delay: 4400ms;}
+.animation_delay4500ms{animation-delay: 4500ms;}
+.animation_delay4600ms{animation-delay: 4600ms;}
+.animation_delay4700ms{animation-delay: 4700ms;}
+.animation_delay4800ms{animation-delay: 4800ms;}
+.animation_delay4900ms{animation-delay: 4900ms;}
+.animation_delay5s{animation-delay: 5s;}
+.animation_delay5100ms{animation-delay: 5100ms;}
+.animation_delay5200ms{animation-delay: 5200ms;}
+.animation_delay5300ms{animation-delay: 5300ms;}
+.animation_delay5400ms{animation-delay: 5400ms;}
+.animation_delay5500ms{animation-delay: 5500ms;}
+.animation_delay5600ms{animation-delay: 5600ms;}
+.animation_delay5700ms{animation-delay: 5700ms;}
+.animation_delay5800ms{animation-delay: 5800ms;}
+.animation_delay5900ms{animation-delay: 5900ms;}
+.animation_delay6s{animation-delay: 6s;}
+.animation_delay6100ms{animation-delay: 6100ms;}
+.animation_delay6200ms{animation-delay: 6200ms;}
+.animation_delay6300ms{animation-delay: 6300ms;}
+.animation_delay6400ms{animation-delay: 6400ms;}
+.animation_delay6500ms{animation-delay: 6500ms;}
+.animation_delay6600ms{animation-delay: 6600ms;}
+.animation_delay6700ms{animation-delay: 6700ms;}
+.animation_delay6800ms{animation-delay: 6800ms;}
+.animation_delay6900ms{animation-delay: 6900ms;}
+.animation_delay7s{animation-delay: 7s;}
+
+
+@-webkit-keyframes onkick{
+	0%{opacity: 1;}
+	100%{opacity: 0;}
+}
+
+.onkick{
+	-webkit-animation: onkick 1s linear both;	
+}
+
+/*当前页向上*/
+/*@-webkit-keyframes toTop{
+	0%{}
+	100%{-webkit-transform: translateY(-100%);}
+}
+
+.toTop{
+	-webkit-animation: toTop 0.5s linear both;	
+}*/
+
+/*下一页向上*/
+/*@-webkit-keyframes nextTop{
+	0%{transform: translateY(100%);}
+	100%{transform: translateY(0%);}
+}
+.nextTop{
+	-webkit-animation: nextTop 0.5s linear both;	
+}
+*/
+
+/*当前页向下*/
+/*@-webkit-keyframes toBottom{
+	0%{}
+	100%{-webkit-transform: translateY(100%);}
+}
+
+.toBottom{
+	-webkit-animation: toBottom 0.5s linear both;	
+}*/
+/*上一页向下*/
+/*@-webkit-keyframes prevBottom{
+	0%{-webkit-transform: translateY(-100%);}
+	100%{-webkit-transform: translateY(0%);}
+}
+
+.prevBottom{
+	-webkit-animation: prevBottom 0.5s linear both;	
+}*/
+
+
+/*小箭头和音乐图标*/
+
+/*@keyframes upDown{
+	0%{transform: translateY(0);}
+	25%{transform: translateY(-10%);}
+	100%{transform: translateY(10%);}
+}
+
+.upDown{
+	animation: upDown 2s linear infinite;
+}
+
+@keyframes rotate{
+	0%{transform: rotate(0deg);}
+	100%{transform: rotate(360deg);}
+}
+
+.rotate{
+	animation: rotate 2s linear infinite;
+}*/
+
+/***************************第一页元素动画********************************/
+/*小花摇摆*/
+/*@keyframes sway{
+	0%{transform: rotate(0deg);}
+	25%{transform: rotate(30deg);}
+	70%{transform: rotate(-30deg);}
+	100%{transform: rotate(0deg);}
+}
+
+.sway{
+	animation: sway 2s linear infinite;
+}*/
+
+
+/*云放大缩小*/
+/*@keyframes scale{
+	0%{transform: scale(1);}
+	50%{transform: scale(0.8);}
+	100%{transform: scale(1);}
+}
+.scale{
+	animation: scale 2s linear infinite;
+}*/
+
+/*飞机*/
+/*@keyframes flying{
+	0%{transform: translateY(-100%) scale(0);}
+	50%{transform: translateY(0%) scale(0.5);}
+	100%{transform: translateY(0%) scale(1);}
+}
+.flying{
+	animation-name: flying;
+	animation-duration: 2s;
+	animation-timing-function: linear;
+	animation-fill-mode: both;
+}*/
+
+/*建筑物淡入*/
+/*@keyframes fadeIn{
+	0%{opacity: 0;}
+	100%{opacity: 1;}
+}
+.fadeIn{
+	animation-name: fadeIn;
+	animation-duration: 1s;
+	animation-timing-function: linear;
+	animation-fill-mode: both;
+}*/
+
+/*第二页动画*/
+
+/*背景*/
+
+
+/*第三页动画*/
+
+/*@keyframes go{
+	0%{}
+	100%{transform: translateX(-200%);}
+}
+.go{
+	animation-name:go;
+	animation-duration: 1.5s;
+	animation-fill-mode: both;
+	animation-timing-function: linear;
+}
+
+@keyframes zoom1{
+	0%{width: 0;}
+	100%{width: 30%;}
+}
+.zoom1{
+	animation-name:zoom1;
+	animation-duration: 1s;
+	animation-fill-mode: both;
+	animation-timing-function: linear;
+}
+
+
+@keyframes zoom2{
+	0%{width: 0;}
+	100%{width: 55%;}
+}
+.zoom2{
+	animation-name:zoom2;
+	animation-duration: 1s;
+	animation-fill-mode: both;
+	animation-timing-function: linear;
+}*/
+
+/*第四页动画*/
+/*
+@keyframes fadeOut{
+	0%{opacity: 1;}
+	100%{opacity: 0;}
+}
+
+.fadeOut{
+	animation-name:fadeOut;
+	animation-duration: 1s;
+	animation-fill-mode: both;
+	animation-timing-function: linear;
+}
+*/
+
+
+
